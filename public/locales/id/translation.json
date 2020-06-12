@@ -1,5 +1,7 @@
 {
   "title": "Bumi",
-  "content": "Bumi adalah planet ketiga dari Matahari dan satu-satunya objek astronomi yang diketahui memiliki kehidupan. Menurut estimasi penanggalan radiometrik dan bukti lainnya, Bumi terbentuk lebih dari 4,5 miliar tahun yang lalu. Gravitasi bumi berinteraksi dengan benda-benda lain di ruang angkasa, terutama Matahari dan Bulan, yang merupakan satu-satunya satelit alami Bumi. Bumi mengorbit di sekitar Matahari dalam 365,256 hari matahari, periode yang dikenal sebagai tahun nyata sisi Bumi. Selama waktu ini, Bumi berputar sekitar porosnya 366,256 kali, yaitu tahun sisi samping memiliki 366,256 sisi hari nyata.",
-  "source": "Sumber: "
+  "content": {
+    "description": "Bumi adalah planet ketiga dari Matahari dan satu-satunya objek astronomi yang diketahui memiliki kehidupan. Menurut estimasi penanggalan radiometrik dan bukti lainnya, Bumi terbentuk lebih dari 4,5 miliar tahun yang lalu. Gravitasi bumi berinteraksi dengan benda-benda lain di ruang angkasa, terutama Matahari dan Bulan, yang merupakan satu-satunya satelit alami Bumi. Bumi mengorbit di sekitar Matahari dalam 365,256 hari matahari, periode yang dikenal sebagai tahun nyata sisi Bumi. Selama waktu ini, Bumi berputar sekitar porosnya 366,256 kali, yaitu tahun sisi samping memiliki 366,256 sisi hari nyata.",
+    "source": "Sumber: "
+  }
 }

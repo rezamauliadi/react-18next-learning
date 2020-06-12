@@ -3,24 +3,9 @@ import ReactDOM from "react-dom";
 import * as serviceWorker from "./serviceWorker";
 import "antd/dist/antd.css";
 import "./index.css";
-
 import App from "./App";
 
-import i18n from "i18next";
-import { initReactI18next } from "react-i18next";
-import i18nextHttpBackend from "i18next-http-backend";
-
-i18n
-  .use(i18nextHttpBackend)
-  .use(initReactI18next)
-  .init({
-    lng: "en",
-    fallbackLng: "en",
-
-    interpolation: {
-      escapeValue: false
-    }
-  });
+import "./i18n";
 
 ReactDOM.render(
   <React.StrictMode>
