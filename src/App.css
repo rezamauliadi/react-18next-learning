@@ -11,3 +11,12 @@
 .page__content {
   margin-top: 50px;
 }
+
+h2 {
+  font-size: 28px;
+}
+
+p,
+.ant-radio-group {
+  font-size: 16px;
+}
